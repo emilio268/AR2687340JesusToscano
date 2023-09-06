@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1073871492296",
+    "project_id": "ar2687340jesustoscano-a3161",
+    "storage_bucket": "ar2687340jesustoscano-a3161.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073871492296:android:95e866e71ee19848bf81fd",
+        "android_client_info": {
+          "package_name": "com.example.ar2687340jesustoscano"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073871492296-eogakiumm97ae87j1gvc5enoejlfgegu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV4QL14Xg8O1E8kSmuj3FuOL4pbsVymeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073871492296-eogakiumm97ae87j1gvc5enoejlfgegu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
